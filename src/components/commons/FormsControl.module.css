@@ -1,0 +1,9 @@
+.formControl.error input {
+  border: 1px solid #ef5b4c;
+  border-radius: 5px;
+}
+
+.formControl.error span {
+  color: #ef5b4c;
+  text-transform: capitalize;
+}
